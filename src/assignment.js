@@ -20,7 +20,7 @@ function sumOfNumbers(arrayOfNumbers) {
   }
   return sum;
 }
- console.log(sumOfNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
+
 
 
 
@@ -44,7 +44,7 @@ function countEvenNumbers(arrayOfNumbers) {
   }
   return count;
 }
-console.log(countEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
+
 
 assignment.countEvenNumbers = countEvenNumbers;
 
